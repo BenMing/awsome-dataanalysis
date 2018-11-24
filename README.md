@@ -8,17 +8,17 @@
 4. Situational
 
 ## Why Data Analysis?
-Always start from asking 'why'.
+Always start from asking 'why'
 
-### What is Data Analysis?
+## What is Data Analysis?
 edx.org 上的解释如下：
 >Data analysis is the process of **extracting information from data**. It involves multiple stages including establishing a data set, preparing the data for processing, applying models, identifying key findings and creating reports. The goal of data analysis is to **find actionable insights that can inform decision making**. Data analysis can involve data mining, descriptive and predictive analysis, statistical analysis, business analytics and big data analytics.
 关键点在于：从数据中抽取信息，然后辅助决策。
 
 ## Resources
-[Free Data Science Resources for Beginners](https://elitedatascience.com/data-science-resources)
-[Class Central](https://www.class-central.com/subject/data-analysis#)
-[优达学城-数学分析](https://cn.udacity.com/courses/data-analytics)
+- [Free Data Science Resources for Beginners](https://elitedatascience.com/data-science-resources)
+- [Class Central](https://www.class-central.com/subject/data-analysis#)
+- [优达学城-数学分析](https://cn.udacity.com/courses/data-analytics)
 
 
 
