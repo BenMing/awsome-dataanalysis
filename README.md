@@ -39,6 +39,7 @@ edx.org 上的解释如下：
 文中提及的资源如来自于其他网络文章推荐，会作为参考文献，列在文末。
 
 ## 参考文献
-https://www.edx.org/learn/data-analysis
-[研究了数千个在线课程，我整理了一份数据科学入门课清单](https://mp.weixin.qq.com/s?src=3&timestamp=1543029188&ver=1&signature=fZ5HsUYiytbTgb8SekmcI3g9oizZncGBgdipWihPFh2CH855dp3F7Z4I08wUqVdXoAoDHmWey6bu6HRum37zTmcj7THo0hW5n5N8rIr-F1UY0C10ZJ8P2zZ4c0U6vwc-GbrN7SbdFC*ZW*Qg5Q3*RQrnSt-C65d0em3cTCrDEx8=)
+- https://www.edx.org/learn/data-analysis
+- [研究了数千个在线课程，我整理了一份数据科学入门课清单](https://mp.weixin.qq.com/s?src=3&timestamp=1543029188&ver=1&signature=fZ5HsUYiytbTgb8SekmcI3g9oizZncGBgdipWihPFh2CH855dp3F7Z4I08wUqVdXoAoDHmWey6bu6HRum37zTmcj7THo0hW5n5N8rIr-F1UY0C10ZJ8P2zZ4c0U6vwc-GbrN7SbdFC*ZW*Qg5Q3*RQrnSt-C65d0em3cTCrDEx8=)
+- [EliteDataScience](https://elitedatascience.com/category/resources)
 
